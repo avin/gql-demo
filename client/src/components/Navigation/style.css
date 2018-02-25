@@ -1,0 +1,9 @@
+.Navigation {
+    background-color: #ddd;
+    font-weight: bold;
+}
+
+.Navigation ul li {
+    display: inline;
+    padding-right: 20px;
+}
